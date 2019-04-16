@@ -1,0 +1,12 @@
+.img{
+    width: 100px;
+    height: 170px;
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+.img img{
+    width: 100%;
+}
+.form form{
+    margin: 15px 0;
+}
